@@ -1,6 +1,6 @@
-#**Real Estate Sales 2001 - 2022**
+# Real-Estate-Sales-2001-2022
 
--- Dataset: Gym Check-ins and User Metadata
+-- Dataset: Real Estate Sales (2001 - 2022)
 
 -- Source: https://catalog.data.gov/dataset/real-estate-sales-2001-2018
 
