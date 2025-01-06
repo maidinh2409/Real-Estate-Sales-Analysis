@@ -6,4 +6,15 @@
 
 -- Tools used: Python
 
-This dataset, obtained from data.gov, consists of over 1 million rows of real estate sales data collected by a company over 21 years. It serves as a practical resource for focusing on data transformation, cleaning null values, detecting outliers, and addressing inconsistent data. The project aims to enhance skills in data manipulation and standardization using Python, while also providing hands-on experience with basic plotting techniques.
+**Dataset Overview**
+This dataset, sourced from data.gov, contains over 1 million rows of real estate sales data collected over 21 years. It includes property types, assessed values, sales amounts, and other key attributes.
+
+**Data Processing and Analysis**
+-- Data Cleaning and Transformation:
+  Addressed missing values, resolved inconsistencies, and identified outliers using statistical and visualization techniques with pandas.
+
+-- Exploratory Data Analysis (EDA):
+  Conducted a detailed analysis using Matplotlib and Seaborn to explore distributions, trends, and patterns. Insights were derived through metrics and distribution theories to better understand market behaviors.
+
+This project demonstrates practical skills in data cleaning, visualization, and statistical analysis, offering a foundation for further exploration and modeling tasks.
+
