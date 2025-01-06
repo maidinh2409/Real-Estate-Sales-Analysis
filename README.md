@@ -10,6 +10,7 @@
 This dataset, sourced from data.gov, contains over 1 million rows of real estate sales data collected over 21 years. It includes property types, assessed values, sales amounts, and other key attributes.
 
 **Data Processing and Analysis**
+
 -- Data Cleaning and Transformation:
   Addressed missing values, resolved inconsistencies, and identified outliers using statistical and visualization techniques with pandas.
 
